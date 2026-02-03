@@ -1,8 +1,8 @@
 //
 //  ImagePredictor.swift
-//  DEO Plant disease detector 
+//  CropIQ Plant disease detector 
 //
-//  Created by Grace James 28/05/2022.
+//  Created by Grace James 28/05/2025.
 //
 
 import Foundation
