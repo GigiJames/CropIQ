@@ -1,6 +1,6 @@
 //
 //  ImagePicker.swift
-//  DEO Plant disease detector
+//  CropIQ Plant disease detector
 //
 //  Created by Grace James on 29/05/2022.
 //
